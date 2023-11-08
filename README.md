@@ -39,7 +39,7 @@ will be lost once the session is terminated.
 ### Google Colab
 
 The `HRP_experiment_analyser` notebook, which can be used to fit your own experimental data, can additionally be
-run in Google Colab - this is persistent and saved to your own Google Drive and can be done in the following steps:
+run in Google Colab - this can be made persistent and saved to your own Google Drive. Do this in the following steps:
 
 - Click on the `HRP_experiment_analyser` folder.
 - Click on the `HRP_experiment_analyser.ipynb` notebook file. This will display the contents of the notebook.
