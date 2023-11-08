@@ -6,3 +6,4 @@ lmfit
 pandas
 ipyfilechooser
 openpyxl
+notebook
