@@ -45,7 +45,7 @@ run in Google Colab - this can be made persistent and saved to your own Google D
 - Click on the `HRP_experiment_analyser.ipynb` notebook file. This will display the contents of the notebook.
 - Click on the ![Colab](https://colab.research.google.com/assets/colab-badge.svg) icon. This will open the
 notebook in Google Colab.
-
+- Click on "Run anyway" when you see the "Warning: This notebook was not authored by Google" popup.
 
 ## Set-up of local computational environment
 
